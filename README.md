@@ -1,2 +1,3 @@
 # midfi-wireframe-dio-uxui
-Wireframe de média fidelidade desenvolvido para o desafio de projeto do curso de UX/UI da DIO.me
+
+Desenvolvimento de um wireframe de média fidelidade para uma plataforma destinada aos estudantes de medicina, com foco no estudo de análises clínicas. 
